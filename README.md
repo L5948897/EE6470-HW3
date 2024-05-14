@@ -2,7 +2,7 @@
 
 ## Requirments
 
-Linux system
+Linux system, SystemC, Stratus, Xelium
 
 ## HW3-1 Base Implementation
 
